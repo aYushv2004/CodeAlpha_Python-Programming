@@ -17,4 +17,5 @@ for filename in os.listdir(source_folder):
         shutil.move(source_path, destination_path)
         print(f"Moved: {filename}")
 
-print("✅ Done All .jpg files moved successfully!")
+
+print("Done✅ all jpg files moved successfully!")
